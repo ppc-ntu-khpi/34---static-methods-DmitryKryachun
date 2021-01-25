@@ -83,5 +83,5 @@ public class TestResult {
 }
 ```
 ## Приклад виконання роботи:
-![Image](https://github.com/ppc-ntu-khpi/34---static-methods-DmitryKryachun/blob/master/images/result.png)
+![Image](https://github.com/ppc-ntu-khpi/34---static-methods-DmitryKryachun/blob/master/images/result.jpg)
 ![Alt Text](url)
