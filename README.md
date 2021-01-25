@@ -3,7 +3,6 @@
 
 Дане завдання було виконанно за такою структурою:
 ![Image](https://github.com/ppc-ntu-khpi/34---static-methods-DmitryKryachun/blob/master/computation.png)
-![Alt Text](url)
 
 Що таке анаграма можна дізнатися в [Wikipedia](Wikipediahttps://uk.wikipedia.org/wiki/Анаграма)
 
@@ -84,4 +83,3 @@ public class TestResult {
 ```
 ## Приклад виконання роботи:
 ![Image](https://github.com/ppc-ntu-khpi/34---static-methods-DmitryKryachun/blob/master/images/result.jpg)
-![Alt Text](url)
