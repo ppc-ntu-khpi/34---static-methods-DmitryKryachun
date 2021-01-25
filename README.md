@@ -4,7 +4,7 @@
 Дане завдання було виконанно за такою структурою:
 ![Image](https://github.com/ppc-ntu-khpi/34---static-methods-DmitryKryachun/blob/master/computation.png)
 
-Що таке анаграма можна дізнатися в [Wikipedia](Wikipediahttps://uk.wikipedia.org/wiki/Анаграма)
+Що таке анаграма можна дізнатися в [Wikipedia](https://uk.wikipedia.org/wiki/Анаграма)
 
 Завдання не важке, потрібно було просто відсортувати букви з яких складаються слова, зробити все букви строковими, і перевірити чи вони однакові.
 
